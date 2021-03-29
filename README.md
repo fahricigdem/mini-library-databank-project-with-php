@@ -8,3 +8,4 @@ There 3 tables; Persons, Books and Sales. Access to databank with php, databank 
 <img src="app-photos/Person Detail.png" height="240" title="Home Page">
 <img src="app-photos/Add Person.png" height="240" title="Home Page">
 <img src="app-photos/Update Person.png" height="240" title="Home Page">
+<img src="app-photos/Add Sale.png" height="240" title="Home Page">
